@@ -25,7 +25,7 @@ function generateMangaLink(title, mangaIndex, chapter) {
   return `${baseUrl}${mangaIndexChapter}/${formattedTitle}-chapter-${chapter}`;
 }
 
-function generateVolumeHTML(lastVol) {
+function generateVolumeHTML(lastVol3) {
     let html = '';
     let chapter = 1;
 
