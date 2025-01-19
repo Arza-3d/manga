@@ -44,4 +44,3 @@ function generateHTML(lastVol) {
   return html;
 }
 
-const lastVol3 = [3, 12, 15];
