@@ -17,3 +17,10 @@ function parseRange(inputStr) {
 
   return result;
 }
+
+function generateMangaLink(title, mangaIndex, chapter) {
+  const baseUrl = "https://mangapill.com/chapters/";
+  const mangaIndexChapter = `${mangaIndex}-${mangaIndex * 10000 + chapter}`;
+  const formattedTitle = title.replace(/\s+/g, "-").toLowerCase();
+  return `${baseUrl}${mangaIndexChapter}/${formattedTitle}-chapter-${chapter}`;
+}
