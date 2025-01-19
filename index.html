@@ -20,15 +20,15 @@
       
       const mainElement = document.querySelector('main'); 
       
-      function generateVolumeHTML(lastVol) {
+      function generateVolumeHTML(lastChapterEachVolume) {
     let html = '';
-    let chapter = 1;
+    let volume = 1;
 
-    for (let i = 0; i < lastVol.length; i++) {
+    for (let i = 0; i < lastChapterEachVolume.length; i++) {
         html += `<h3>Vol ${i + 1}</h3><section>`;
-        for (let j = 1; j <= lastVol[i]; j++) {
-            html += `${chapter} `;
-            chapter++;
+        for (let j = 1; j <= lastChapterEachVolume[i]; j++) {
+            html += `${volume} `;
+            volume++;
         }
         html += `</section>`;
     }
@@ -36,11 +36,11 @@
     return html;
 }
 
-const lastVol3 = [3, 12, 15];
+const lastChapterEachVolume3 = [3, 12, 15];
 
       
       
-mainElement.innerHTML = "This is the main content.<br>"+ generateVolumeHTML(lastVol3); 
+mainElement.innerHTML = "This is the main content.<br>"+ generateVolumeHTML(lastChapterEachVolume3); 
 
       
     </script>
