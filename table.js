@@ -10,3 +10,5 @@ const narutoVolLastChapters = [
 ];
 
 const narutoMangapillID = ["naruto", 3069, 700];
+
+const lastVol3 = [3, 12, 15];
