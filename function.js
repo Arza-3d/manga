@@ -33,7 +33,7 @@ function generateHTML(lastVol) {
     html += `<h3>vol ${i + 1}</h3>\n`;
     html += "<section>\n";
 
-    for (let j = startNum; j < startNum + lastVol[i]; j++) {
+    for (let j = startNum; j < lastVol[i] - if(i>0)lastVol[i-1]; j++) {
       html += `${j}\n`;
       //test bawa
       html+="<br><b>"+j+"";
