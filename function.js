@@ -25,22 +25,18 @@ function generateMangaLink(title, mangaIndex, chapter) {
   return `${baseUrl}${mangaIndexChapter}/${formattedTitle}-chapter-${chapter}`;
 }
 
-function generateHTML(lastVol) {
-  let html = "";
-  let startNum = 1;
+function generateVolumeHTML(lastVol) {
+    let html = '';
+    let chapter = 1;
 
-  for (let i = 0; i < lastVol.length; i++) {
-    html += `<h3>vol ${i + 1}</h3>\n`;
-    html += "<section>\n";
-
-    for (let j = startNum; j < startNum + lastVol[i]; j++) {
-      html += `${j}\n`;
+    for (let i = 0; i < lastVol.length; i++) {
+        html += `<h3>Vol ${i + 1}</h3><section>`;
+        for (let j = 1; j <= lastVol[i]; j++) {
+            html += `${chapter} `;
+            chapter++;
+        }
+        html += `</section>`;
     }
 
-    html += "</section>\n\n";
-    startNum += lastVol[i];
-  }
-
-  return html;
+    return html;
 }
-
