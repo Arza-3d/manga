@@ -33,7 +33,6 @@ function generateVolumeHTML(lastVol) {
         let vol = i + 1;
       
         html += `<h3>Vol ${vol} </h3><section>`;
-        let fir
         
         for (let j = 1; j <= lastVol[i]; j++) {
             html += `${chapter} `;
