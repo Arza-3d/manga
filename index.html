@@ -42,6 +42,28 @@ const lastChapterEachVolume3 = [3, 12, 15];
       
 mainElement.innerHTML = "This is the main content.<br>"+ generateVolumeHTML(lastChapterEachVolume3); 
 
+function generateTableRow(arr) {
+    let output = '';
+    let start = 1;
+
+    for (let i = 0; i < arr.length; i++) {
+        let end = arr[i];
+        let numbers = [];
+
+        for (let j = start; j <= end; j++) {
+            numbers.push(j);
+        }
+
+        output += `<td> ${numbers.join(', ')} </td>\n`;
+        start = end + 1;
+    }
+
+    return output.trim(); // Remove the last newline character
+}
+
+set chaptr 
+alert(generateTableRow());
+
       
     </script>
     
