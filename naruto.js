@@ -31,3 +31,7 @@ const lastChapterInArc = [
   ["kaguya", 699],
   ["epilog", 700]
   ];
+  
+const battleLog = [
+  ["naruto vs sasuke "],
+  ]
