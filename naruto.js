@@ -10,5 +10,5 @@ const lastChapterInVol = [
   ];
 
 const lastChapterInArc = [
-  [ "land of", ]
+  [ "land of waves", 33]
   ];
