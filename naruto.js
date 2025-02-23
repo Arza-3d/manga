@@ -37,6 +37,7 @@ const battleLog = [
   ["haku vs waraji, zouri", 18],
   ["hinata vs neji", "78-80"],
   ["naruto vs kiba", "75-77"],
+  ["naruto vs lee", 37]
   ["naruto vs mizuki", 1]
   ["naruto vs neji", "99-104"],
   ["naruto vs sasuke 1st battle", "175-176"],
