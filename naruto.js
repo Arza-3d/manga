@@ -10,5 +10,7 @@ const lastChapterInVol = [
   ];
 
 const lastChapterInArc = [
-  [ "land of waves", 33]
+  [ "land of waves", 33],
+  ["chunin exam", 67],
+  [""]
   ];
