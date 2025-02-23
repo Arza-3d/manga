@@ -12,5 +12,22 @@ const lastChapterInVol = [
 const lastChapterInArc = [
   [ "land of waves", 33],
   ["chunin exam", 67],
-  [""]
+  ["konoha crush", 138],
+  ["search for tsunade", 171],
+  ["sasuke recovery mission", 238],
+  ["..", 244],
+  ["kazekage rescue mission", 281],
+  ["tenchi bridge mission", 310],
+  ["akatsuki supression mission", 342],
+  ["itachi pursuit", 367],
+  ["tale of jiraiya", 383],
+  ["brothers battle", 412],
+  ["pain's assault", 453],
+  ["5 kages summit", 483],
+  ["shinobi war countdown", 515],
+  ["shinobi war confrontation", 559],
+  ["shinobi war climax", 639],
+  ["ten tail", 677],
+  ["kaguya", 699],
+  ["epilog", 700]
   ];
