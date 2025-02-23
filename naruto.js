@@ -34,7 +34,7 @@ const lastChapterInArc = [
   
 const battleLog = [
   ["gaara vs lee", "81-86"],
-  ["haku vs haori, waraji", 18],
+  ["haku vs waraji, zouri", 18],
   ["hinata vs neji", "78-80"],
   ["naruto vs kiba", "75-77"],
   ["naruto vs mizuki", 1]
