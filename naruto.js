@@ -34,7 +34,9 @@ const lastChapterInArc = [
   
 const battleLog = [
   ["gaara vs lee", "81-86"]
+  ["naruto vs kiba", "75-77"]
   ["naruto vs neji", "99-104"]
   ["naruto vs sasuke 1st battle"],
+  [""]
   ["shikamaru vs temari", "106-108"]
   ]
