@@ -33,5 +33,5 @@ const lastChapterInArc = [
   ];
   
 const battleLog = [
-  ["naruto vs sasuke "],
+  ["naruto vs sasuke -1"],
   ]
