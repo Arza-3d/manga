@@ -53,7 +53,8 @@ const battleLogInChapters = [
   ["sasuke vs zoroi", "67-68"],
   ["team 7 vs kakashi", "4-8"],
   ["team 7 vs zabuza","11-16"],
-  ["team 7 vs zabuza, haku"]
+  ["team 7 vs zabuza, haku", "22-32"],
+  ["zabuza vs gato and his army", 32],
   ["choji vs jirobo", "187-191"],
   ["neji vs kidoumaru", "192-198"],
   ["shikamaru vs temari", "106-108"],
