@@ -32,34 +32,35 @@ const lastChapterInArc = [
   ["epilog", 700]
   ];
   
-const battleLogInChapters = [
-  ["orochimaru vs anko", 50],
-  ["gaara vs lee", "81-86"],
-  ["haku vs waraji, zouri", 18],
-  ["hinata vs neji", "78-80"],
-  ["naruto vs ebisu", 2],
-  ["naruto vs kiba", "75-77"],
-  ["naruto vs lee", 37]
+let battleLogInChapters = [
   ["naruto vs mizuki", 1],
+  ["naruto vs ebisu", 2],
+  ["team 7 vs kakashi", "4-8"],
+  ["team 7 vs zabuza", "11-16"],
+  ["haku vs waraji, zouri", 18],
+  ["team 7 vs zabuza, haku", "22-32"],
+  ["zabuza vs gato and his army", 32],
+  ["naruto vs waraji, zouri", 23],
+  ["naruto vs lee", 37],
+  ["sasuke vs lee", 37],
+  ["orochimaru vs anko", 50],
+  ["sasuke vs zoroi", "67-68"],
+  ["shino vs zaku", 69],
   ["kankuro vs tsurugi", 70],
   ["sakura vs ino", "71-73"],
   ["temari vs tenten", 73],
+  ["naruto vs kiba", "75-77"],
+  ["hinata vs neji", "78-80"],
+  ["gaara vs lee", "81-86"],
   ["naruto vs neji", "99-104"],
-  ["naruto vs sasuke 1st battle", "175-176"],
-  ["naruto vs waraji, zouri", 23],
-  ["shino vs zaku", 69],
-  ["sasuke vs lee", 37],
+  ["shikamaru vs temari", "106-108"],
   ["sasuke vs gaara", "111-114"],
-  ["sasuke vs zoroi", "67-68"],
-  ["team 7 vs kakashi", "4-8"],
-  ["team 7 vs zabuza","11-16"],
-  ["team 7 vs zabuza, haku", "22-32"],
-  ["zabuza vs gato and his army", 32],
+  ["naruto vs sasuke 1st battle", "175-176"],
   ["choji vs jirobo", "187-191"],
   ["neji vs kidoumaru", "192-198"],
-  ["shikamaru vs temari", "106-108"],
   ["naruto vs kimimaro", 209],
   ["naruto vs sasuke", "218-220, 224-233"],
   ["sasuke vs deidara", "357-363"],
   ["naruto vs sasuke", "485-486"]
-  ]
+];
+  
