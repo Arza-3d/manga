@@ -36,6 +36,7 @@ const battleLog = [
   ["gaara vs lee", "81-86"],
   ["haku vs waraji, zouri", 18],
   ["hinata vs neji", "78-80"],
+  ["naruto vs ebisu", 2],
   ["naruto vs kiba", "75-77"],
   ["naruto vs lee", 37]
   ["naruto vs mizuki", 1]
@@ -45,5 +46,6 @@ const battleLog = [
   ["sasuke vs gaara", "111-114"],
   ["sasuke vs zoroi", "67-68"],
   ["team 7 vs kakashi", "4-8"],
+  ["team 7 vs zabuza","11-15"]
   ["shikamaru vs temari", "106-108"]
   ]
