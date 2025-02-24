@@ -33,19 +33,27 @@ const lastChapterInArc = [
   ];
   
 const battleLog = [
+  ["orochimaru vs anko", 50],
   ["gaara vs lee", "81-86"],
   ["haku vs waraji, zouri", 18],
   ["hinata vs neji", "78-80"],
   ["naruto vs ebisu", 2],
   ["naruto vs kiba", "75-77"],
   ["naruto vs lee", 37]
-  ["naruto vs mizuki", 1]
+  ["naruto vs mizuki", 1],
+  ["kankuro vs tsurugi", 70],
+  ["sakura vs ino", "71-73"],
+  ["temari vs tenten", 73],
   ["naruto vs neji", "99-104"],
   ["naruto vs sasuke 1st battle", "175-176"],
   ["naruto vs waraji, zouri", 23],
+  ["shino vs zaku", 69],
+  ["sasuke vs lee", 37],
   ["sasuke vs gaara", "111-114"],
   ["sasuke vs zoroi", "67-68"],
   ["team 7 vs kakashi", "4-8"],
   ["team 7 vs zabuza","11-15"],
+  ["choji vs jirobo", "187-191"],
+  ["neji vs kidoumaru", "192-198"],
   ["shikamaru vs temari", "106-108"]
   ]
