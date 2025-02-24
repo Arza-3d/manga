@@ -32,7 +32,7 @@ const lastChapterInArc = [
   ["epilog", 700]
   ];
   
-const battleLog = [
+const battleLogInChapters = [
   ["orochimaru vs anko", 50],
   ["gaara vs lee", "81-86"],
   ["haku vs waraji, zouri", 18],
@@ -52,7 +52,8 @@ const battleLog = [
   ["sasuke vs gaara", "111-114"],
   ["sasuke vs zoroi", "67-68"],
   ["team 7 vs kakashi", "4-8"],
-  ["team 7 vs zabuza","11-15"],
+  ["team 7 vs zabuza","11-16"],
+  ["team 7 vs zabuza, haku"]
   ["choji vs jirobo", "187-191"],
   ["neji vs kidoumaru", "192-198"],
   ["shikamaru vs temari", "106-108"],
