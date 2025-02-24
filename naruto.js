@@ -58,5 +58,6 @@ const battleLog = [
   ["shikamaru vs temari", "106-108"],
   ["naruto vs kimimaro", 209],
   ["naruto vs sasuke", "218-220, 224-233"],
-  ["sasuke vs deidara", "357-363"]
+  ["sasuke vs deidara", "357-363"],
+  ["naruto vs sasuke", "485-486"]
   ]
