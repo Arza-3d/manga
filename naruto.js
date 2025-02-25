@@ -1,4 +1,4 @@
-const lastChapterInVol = [
+const lastChapterInVolume = [
   7, 17, 27, 36, 45, 54, 63, 72, 81, 90, 
   99, 108, 117, 126, 135, 144, 153, 162, 171, 180, 
   190, 199, 208, 217, 226, 235, 244, 253, 262, 271, 
@@ -7,7 +7,7 @@ const lastChapterInVol = [
   483, 494, 504, 514, 524, 534, 544, 555, 565, 575,
   587, 597, 607, 617, 627, 637, 647, 657, 668, 679,
   690, 700
-  ];
+  ];// ex volume 1 chapter from 1-7
 
 const lastChapterInArc = [
   [ "land of waves", 33],
