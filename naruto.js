@@ -45,7 +45,7 @@ let battleLogInChapters = [
   ["sasuke vs lee", 37],
   ["kabuto vs sound ninja trio", 40],
   ["team 7 trio vs naruto impostor", 46],
-  ["team 7 trio vs orochimatu", "46-"],
+  ["team 7 trio vs orochimatu", "46-49"],
   ["orochimaru vs anko", 50],
   ["sasuke vs zoroi", "67-68"],
   ["shino vs zaku", 69],
