@@ -35,7 +35,7 @@ const lastChapterInArc = [
 let battleLogInChapters = [
   ["naruto vs mizuki", 1],
   ["naruto vs ebisu", 2],
-  ["team 7 vs kakashi", "4-8"],
+  ["team 7 trio vs kakashi", "4-8"],
   ["team 7 vs zabuza", "11-16"],
   ["haku vs waraji, zouri", 18],
   ["team 7 vs zabuza, haku", "22-32"],
