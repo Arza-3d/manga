@@ -1,3 +1,7 @@
+const latestChapter = 700;
+
+const mangapillNameAndIndex =
+
 const lastChapterInVolume = [
   7, 17, 27, 36, 45, 54, 63, 72, 81, 90, 
   99, 108, 117, 126, 135, 144, 153, 162, 171, 180, 
