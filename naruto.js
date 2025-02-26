@@ -61,6 +61,7 @@ let battleLogInChapters = [
   ["baki vs hayate", 92]
   ["naruto vs neji", "99-104"],
   ["shikamaru vs temari", "106-108"],
+  ["gaara vs 2 kusakagure ninjas", 110],
   ["sasuke vs gaara", "111-114"],
   ["shino vs kankuro", "124-126"],
   ["naruto vs sasuke 1st battle", "175-176"],
