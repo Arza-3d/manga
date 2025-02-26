@@ -14,27 +14,31 @@ const lastChapterInVolume = [
   ];// ex volume 1 chapter from 1-7
 
 const lastChapterInArc = [
-  [ "land of waves", 33],
-  ["chunin exam", 67],
-  ["konoha crush", 138],
-  ["search for tsunade", 171],
-  ["sasuke recovery mission", 238],
+  ["Land of Waves", 33],
+  ["Chunin Exam: Introduction", 38],
+  ["Chunin Exam: Forest of Death", 52],
+  ["Chunin Exam: Preliminaries", 67],
+  ["Konoha Crush", 138],
+  ["Search for Tsunade", 171],
+  ["Sasuke Recovery Mission", 238],
   ["..", 244],
-  ["kazekage rescue mission", 281],
-  ["tenchi bridge mission", 310],
-  ["akatsuki supression mission", 342],
-  ["itachi pursuit", 367],
-  ["tale of jiraiya", 383],
-  ["brothers battle", 412],
-  ["pain's assault", 453],
-  ["5 kages summit", 483],
-  ["shinobi war countdown", 515],
-  ["shinobi war confrontation", 559],
-  ["shinobi war climax", 639],
-  ["ten tail", 677],
-  ["kaguya", 699],
-  ["epilog", 700]
-  ];
+  ["Kazekage Rescue Mission", 281],
+  ["Tenchi Bridge Mission", 310],
+  ["Akatsuki Suppression Mission", 342],
+  ["Itachi Pursuit", 367],
+  ["Tale of Jiraiya", 383],
+  ["Brothers Battle", 412],
+  ["Pain's Assault", 453],
+  ["Five Kage Summit: Preparations", 460], // Naruto and co. prepare for the summit
+  ["Five Kage Summit: Meeting", 474], // The actual summit and discussions
+  ["Five Kage Summit: Sasuke's Attack", 483], // Sasuke's assault on the summit
+  ["Shinobi War Countdown", 515],
+  ["Shinobi War Confrontation", 559],
+  ["Shinobi War Climax", 639],
+  ["Ten Tails", 677],
+  ["Kaguya", 699],
+  ["Epilogue", 700]
+];
   
 let battleLogInChapters = [
   ["naruto vs mizuki", 1],
