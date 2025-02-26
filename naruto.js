@@ -1,6 +1,6 @@
 const latestChapter = 700;
 
-const mangapillNameAndIndex =
+const mangapillNameAndIndex = ["naruto", 369];
 
 const lastChapterInVolume = [
   7, 17, 27, 36, 45, 54, 63, 72, 81, 90, 
