@@ -14,6 +14,7 @@ const lastChapterInVolume = [
   ];// ex volume 1 chapter from 1-7
 
 const lastChapterInArc = [
+  ["Introduction Arc", 8], // Chapters 1-8
   ["Land of Waves", 33],
   ["Chunin Exam: Introduction", 38],
   ["Chunin Exam: Forest of Death", 52],
@@ -39,7 +40,7 @@ const lastChapterInArc = [
   ["Kaguya", 699],
   ["Epilogue", 700]
 ];
-  
+
 let battleLogInChapters = [
   ["naruto vs mizuki", 1],
   ["naruto vs ebisu", 2],
