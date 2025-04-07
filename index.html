@@ -7,12 +7,17 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <table>
-        <thead>
-            <tr class="table-header"></tr>
-        </thead>
-        <tbody class="table-body"></tbody>
-    </table>
-    <script src="mangaTable.js"></script>
+    <div class="container">
+        <h1 id="mangaTitle"></h1>
+        <div id="mangaTable"></div>
+    </div>
+
+    <script src="mangaData.js"></script>
+    <script src="mangaTableGenerator.js"></script>
+    <script>
+        window.onload = function() {
+            generateMangaTable();
+        };
+    </script>
 </body>
 </html>
