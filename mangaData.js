@@ -85,6 +85,12 @@ let mangaVolumes = [
 ];
 
 let mangaArcs = [
-    [1, "Prologue Arc"],
-    [56, "Final Battle Arc"]
+    [1, "Orth"],
+    [9, "Descent to the Abyss"],
+    [13, "Seeker Camp"],
+    [18, "The Great Fault"],
+    [19, "Poison and Liberation"],
+    [27, "Ido Front"],
+    [39, "Iruburu"],
+    [61, "Capital of Unreturned"]
 ];
