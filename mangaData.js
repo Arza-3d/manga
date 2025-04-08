@@ -1,4 +1,4 @@
-let mangaTitle = "My Awesome Manga";
+let mangaTitle = "Made in Abyss";
 let mangaChapter = [
     [1, "Orth: The City of the Great Pit"],
     [2, "The Abode of Trees and Fossils"],
